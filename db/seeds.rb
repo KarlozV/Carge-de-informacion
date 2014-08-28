@@ -15,8 +15,7 @@
 
 	end
 
-	usuarios= [	{email: "Karloz.n19@gmail.com", clave: "0808", nombre: "Carlos", genero: true},
-				{email: "sam@gmail.com", clave: "0808", nombre: "Santiago", genero: true}, 
+	usuarios= [	{email: "Karloz.n19@gmail.com", clave: "0808", nombre: "Carlos", genero: true}, 
 				{email: "Sara@gmail.com", clave: "123", nombre: "Sara", genero: false},
 				{email: "roadtosport@gmail.com", clave: "2014", nombre: "Road", genero: true}
 			]
